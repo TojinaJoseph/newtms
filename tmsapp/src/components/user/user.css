@@ -1,0 +1,18 @@
+.us{
+    transform: translateY(100px);
+    text-align: center;
+}
+.users1{
+    background-color: white;
+    min-height: 500px;
+}
+.inputs{
+    transform: translateY(100px);
+    margin-left: 200px;
+    margin-right: 100px;
+    padding-left: 50px;
+    background-color: rgb(0, 0, 0, .10);
+}
+.in2{
+    padding-left: 50px;
+}
